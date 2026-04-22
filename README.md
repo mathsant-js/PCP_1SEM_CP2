@@ -7,3 +7,5 @@ Checkpoint 2 da máteria de Pensamento Computacional e Automação com Python
 | Nome  | RM    |
 | ----------------------|--------|
 | Matheus Jorge Santana | 574166 |
+| ----------------------|--------|
+| Nayhely Estela C. C.  | 571416 |
